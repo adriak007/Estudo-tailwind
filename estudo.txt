@@ -1,0 +1,25 @@
+TRILHA DE ESTUDO TAILWIND
+
+Material criado em:
+trilha-tailwind/
+
+Ordem sugerida:
+1. trilha-tailwind/README.md
+2. trilha-tailwind/01-fundamentos.md
+3. trilha-tailwind/02-layout.md
+4. trilha-tailwind/03-visual.md
+5. trilha-tailwind/04-responsivo-e-estados.md
+6. trilha-tailwind/05-customizacao.md
+7. trilha-tailwind/06-componentes.md
+8. trilha-tailwind/07-recursos-avancados.md
+9. trilha-tailwind/08-performance-e-projeto-final.md
+
+Metodo:
+- leia um modulo por vez
+- copie os exemplos e reescreva sem olhar
+- faca o exercicio de cada arquivo
+- so avance quando conseguir montar o exemplo sozinho
+
+Meta:
+Sair do basico e chegar a um nivel em que voce consegue montar interfaces,
+componentes reutilizaveis e projetos mais organizados com Tailwind.

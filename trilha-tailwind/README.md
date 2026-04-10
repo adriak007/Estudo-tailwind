@@ -24,6 +24,11 @@ Use esta sequencia em cada modulo:
 6. `06-componentes.md`
 7. `07-recursos-avancados.md`
 8. `08-performance-e-projeto-final.md`
+9. `09-cheatsheet-de-classes.md`
+10. `10-erros-comuns-e-debug.md`
+11. `11-desafios-praticos.md`
+12. `12-tailwind-com-react-e-next.md`
+13. `13-revisao-rapida-e-flashcards.md`
 
 ## O que voce vai dominar
 
@@ -35,6 +40,8 @@ Use esta sequencia em cada modulo:
 - Como componentizar sem transformar Tailwind em bagunca
 - Como usar recursos avancados como valores arbitrarios e seletores arbitrarios
 - Como evitar erros comuns de manutencao e performance
+- Como estudar por repeticao, desafios e revisao ativa
+- Como levar Tailwind para componentes React e apps Next
 
 ## Regra pratica importante
 
@@ -61,6 +68,16 @@ Voce avancou de verdade quando consegue:
 - 30 a 45 minutos por dia
 - 1 modulo por dia ou a cada 2 dias
 - 1 projeto pequeno por semana
+
+## Modulos extras
+
+Os modulos 09 ao 13 foram pensados como reforco e aprofundamento:
+
+- `09`: consulta rapida para acelerar pratica
+- `10`: erros reais, sintomas e como debugar
+- `11`: desafios progressivos para consolidar
+- `12`: uso em componentes React e estrutura de app
+- `13`: revisao ativa para fixar o conteudo
 
 Se quiser, depois dessa trilha eu posso transformar isso numa segunda fase com exercicios
 praticos em HTML, React ou Next.js dentro do proprio repositorio.

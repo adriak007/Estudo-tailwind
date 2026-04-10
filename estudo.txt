@@ -1,0 +1,37 @@
+TRILHA DE ESTUDO TAILWIND
+
+Material criado em:
+trilha-tailwind/
+
+Ordem sugerida:
+1. trilha-tailwind/README.md
+2. trilha-tailwind/01-fundamentos.md
+3. trilha-tailwind/02-layout.md
+4. trilha-tailwind/03-visual.md
+5. trilha-tailwind/04-responsivo-e-estados.md
+6. trilha-tailwind/05-customizacao.md
+7. trilha-tailwind/06-componentes.md
+8. trilha-tailwind/07-recursos-avancados.md
+9. trilha-tailwind/08-performance-e-projeto-final.md
+10. trilha-tailwind/09-cheatsheet-de-classes.md
+11. trilha-tailwind/10-erros-comuns-e-debug.md
+12. trilha-tailwind/11-desafios-praticos.md
+13. trilha-tailwind/12-tailwind-com-react-e-next.md
+14. trilha-tailwind/13-revisao-rapida-e-flashcards.md
+
+Metodo:
+- leia um modulo por vez
+- copie os exemplos e reescreva sem olhar
+- faca o exercicio de cada arquivo
+- so avance quando conseguir montar o exemplo sozinho
+
+Meta:
+Sair do basico e chegar a um nivel em que voce consegue montar interfaces,
+componentes reutilizaveis e projetos mais organizados com Tailwind.
+
+Material extra adicionado:
+- cola rapida de classes
+- guia de erros comuns e debug
+- lista de desafios praticos
+- uso com React e Next
+- perguntas de revisao e flashcards
